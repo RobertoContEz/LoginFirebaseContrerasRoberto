@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652750589839",
+    "project_id": "ejemplologin-7cbf7",
+    "storage_bucket": "ejemplologin-7cbf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652750589839:android:61c7a09c3ce31f2749c5fa",
+        "android_client_info": {
+          "package_name": "contreras.roberto.practicaautenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCSYW4HWepfmBKYGeM9GLbzUhQjL3mJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
